@@ -1,0 +1,12 @@
+total 64K
+-rw-rw-rw-  1 codespace root       635 Feb 19 13:28 CONTRIBUTING.md
+-rw-rw-rw-  1 codespace root      6.5K Feb 19 13:28 LICENSE
+-rw-rw-rw-  1 codespace root       617 Feb 19 13:28 NOTICE
+-rw-rw-rw-  1 codespace root      1.7K Feb 19 13:28 README.md
+-rw-rw-rw-  1 codespace root       11K Feb 19 13:28 Snippets.md
+drwxrwxrwx+ 2 codespace root      4.0K Feb 19 13:28 Solutions
+drwxrwxrwx+ 2 codespace root      4.0K Feb 19 13:28 dir1
+drwxrwxrwx+ 2 codespace root      4.0K Feb 19 13:28 dir2
+drwxrwxrwx+ 2 codespace root      4.0K Feb 19 13:28 dir3
+-rw-rw-rw-  1 codespace root       13K Feb 19 13:28 lorem.txt
+-rw-rw-rw-  1 codespace codespace    0 Feb 19 13:45 ls_snapshot.txt
